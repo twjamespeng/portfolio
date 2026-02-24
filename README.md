@@ -4,7 +4,7 @@
 網站內容包含技能展示、專案案例、行銷活動頁以及設計作品，並具備動畫與互動效果。
 
 🔗 **線上預覽**  
-👉 [https://twjamespeng.github.io/my-portfolio/](https://twjamespeng.github.io/my-portfolio/)
+👉 [https://twjamespeng.github.io/portfolio/](https://twjamespeng.github.io/portfolio/)
 
 ---
 

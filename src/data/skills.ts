@@ -19,6 +19,11 @@ import {
 } from "react-icons/si";
 
 export const skills = {
+  Design: [
+    { name: "Photoshop", icon: SiAdobephotoshop, color: "text-blue-400", level: 90 },
+    { name: "Illustrator", icon: SiAdobeillustrator, color: "text-yellow-500", level: 90 },
+    { name: "Figma", icon: SiFigma, color: "text-pink-400", level: 80 },
+  ],
   Frontend: [
     { name: "HTML", icon: SiHtml5, color: "text-orange-500", level: 90 },
     { name: "CSS", icon: SiCss3, color: "text-blue-500", level: 90 },
@@ -38,10 +43,5 @@ export const skills = {
   Tools: [
     { name: "Git", icon: SiGit, color: "text-orange-500", level: 70 },
     { name: "GitHub", icon: SiGithub, color: "text-white", level: 70 },
-  ],
-  Design: [
-    { name: "Photoshop", icon: SiAdobephotoshop, color: "text-blue-400", level: 90 },
-    { name: "Illustrator", icon: SiAdobeillustrator, color: "text-yellow-500", level: 90 },
-    { name: "Figma", icon: SiFigma, color: "text-pink-400", level: 80 },
   ],
 };

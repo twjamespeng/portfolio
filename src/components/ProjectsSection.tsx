@@ -52,7 +52,7 @@ export default function ProjectsSection() {
           <span className="text-teal-500 font-semibold mx-1">
             首頁、會員系統以及餐廳訂位功能
           </span>
-          。<br />在 ViVa TV 電商網站與 ViVa TV 線上客服系統兩個專案中，
+          。<br />在電商網站與線上客服系統兩個專案中，
           我則專注於
           <span className="text-teal-500 font-semibold mx-1">
             介面規劃、視覺設計與前端靜態頁面實作
